@@ -7,3 +7,6 @@
 - To navigate to the **Password Policy** Expand **Computer Configuration** -> **Windows Settings** -> **Security Settings** -> **Account Policies** -> **Password Policies**
 - And from there, you'll be able to configure the Password Policy to your desired needs
 ![Loom Screenshot 2025-06-06 at 08 43 13](https://github.com/user-attachments/assets/31c22e3c-cb90-46f8-92ef-c08e883093ed)
+
+## Demo Video
+-[Password Policy Demo](https://www.loom.com/share/3949747383d94dae8068a05596be9cdf?sid=69561ed1-5799-4047-8b60-dbd364882200)
