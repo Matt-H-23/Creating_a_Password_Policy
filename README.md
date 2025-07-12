@@ -1,5 +1,6 @@
-# Creating_a_Password_Policy
-### Step 9: Configuring a Password Policy
+# Creating a Password Policy
+-This lab illustrates how to configure **Password Policies** on an AD Server
+### Step 1: Configuring a Password Policy
 - Configuring a **Password Policy** requires us to navigate to **Group Policy Management**
 - On the top right of the **Server Manager** select **Tools** -> navigate to and click on **Group Policy Management**
 ![Loom Screenshot 2025-06-06 at 08 42 17](https://github.com/user-attachments/assets/6ddeaa00-0a5e-498f-a125-80ee3ba85951)
