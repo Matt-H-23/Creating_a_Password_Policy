@@ -13,3 +13,6 @@
 
 ## Demo Video🎥
 -[Password Policy Demo](https://www.loom.com/share/3949747383d94dae8068a05596be9cdf?sid=69561ed1-5799-4047-8b60-dbd364882200)
+
+# Don't Forget!!
+- In order for these policy changes to take effect, you need to remember to open **Command Prompt** and run the **gpupdate /force** command to enforce the new **Active Directory** policy changes.
