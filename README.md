@@ -3,7 +3,7 @@
 ### Step 1: Configuring a Password Policy
 - Configuring a **Password Policy** requires us to navigate to **Group Policy Management**
 - On the top right of the **Server Manager** select **Tools** -> navigate to and click on **Group Policy Management**
-![Loom Screenshot 2025-06-06 at 08 42 17](password.png)
+![Loom Screenshot 2025-06-06 at 08 42 17](password1.png)
 - We're going to edit the **Default Domain Policy** by expanding the tabs in the forest and **Right** clicking on the **Default Domain Policy**(By edititing the Password Policy underneath the Default Domain Policy, the change will affect everything in the cyber.local Domain)
 ### Step 2:
 - To navigate to the **Password Policy** Expand **Computer Configuration** -> **Windows Settings** -> **Security Settings** -> **Account Policies** -> **Password Policies**
